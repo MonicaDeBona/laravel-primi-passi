@@ -11,6 +11,19 @@
 <body>
     <header>
         <h1>Hello Laravel</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="/test1">Prova</a>
+                </li>
+                <li>
+                    <a href="/test2">Prova</a>
+                </li>
+                <li>
+                    <a href="/test3">Prova</a>
+                </li>
+            </ul>
+        </nav>
     </header>
 </body>
 
